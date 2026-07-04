@@ -1,6 +1,6 @@
 # Python Data Science Tutorial Collection
 
-A comprehensive collection of Python tutorials covering essential data science libraries: **Pandas**, **Scikit-Learn**, and **Scikit-Image**. This repository contains hands-on examples and exercises perfect for learning data manipulation, machine learning, and image processing.
+A full collection of Python tutorials covering essential data science libraries: **Pandas**, **Scikit-Learn**, and **Scikit-Image**. This repository contains hands-on examples and exercises perfect for learning data manipulation, machine learning, and image processing.
 
 ## 📁 Project Structure
 
@@ -43,14 +43,14 @@ python pandas01.py
 
 ## 🤖 Scikit-Learn Tutorial
 
-The `sklearn/` folder contains a comprehensive machine learning tutorial:
+The `sklearn/` folder contains a full machine learning tutorial:
 
 - **sklearn_tutorial.py**: Complete ML workflow using the Iris dataset
-  - Data loading and exploration
-  - Data preprocessing and feature scaling
-  - Multiple ML algorithms (Logistic Regression, Decision Trees, Random Forest, SVM)
-  - Model evaluation and comparison
-  - Visualizations and insights
+ - Data loading and exploration
+ - Data preprocessing and feature scaling
+ - Multiple ML algorithms (Logistic Regression, Decision Trees, Random Forest, SVM)
+ - Model evaluation and comparison
+ - Visualizations and insights
 
 ### Running the ML Tutorial
 ```bash
@@ -62,16 +62,16 @@ python sklearn_tutorial.py
 
 ## 🖼️ Scikit-Image Tutorial
 
-The `skimage/` folder contains a comprehensive image processing tutorial:
+The `skimage/` folder contains a full image processing tutorial:
 
 - **skimage_tutorial.py**: Complete guide to image processing
-  - Loading and displaying images
-  - Basic image operations
-  - Filtering and enhancement
-  - Edge detection and feature extraction
-  - Morphological operations
-  - Image segmentation
-  - Real-world applications
+ - Loading and displaying images
+ - Basic image operations
+ - Filtering and enhancement
+ - Edge detection and feature extraction
+ - Morphological operations
+ - Image segmentation
+ - Real-world applications
 
 ### Running the Image Processing Tutorial
 ```bash
